@@ -1,0 +1,72 @@
+<resources>
+    <array name="jabatan">
+        <item>Kepala Jabatan</item>
+        <item>Sekretaris</item>
+        <item>Kepala Sub. Bagian Program dan Pelaporan</item>
+        <item>Analis Rencana Program dan Kegiatan</item>
+        <item>Analisis Perencanaan Evaluasi dan Pelaporan</item>
+        <item>Pengelola Situs/Web</item>
+        <item>Kepala Sub. Bagian Umum dan Kepegawaian</item>
+        <item>Pengelola Sarana dan Prasarana Kantor</item>
+        <item>Pengadministrasi Sarana dan Prasarana Kantor</item>
+        <item>Pengelola Kepegawaian</item>
+        <item>Arsiparis Pertama</item>
+        <item>Analis SDM Aparatur</item>
+        <item>Pengadministrasi Kepegawaian</item>
+        <item>Pengadministrasi Umum</item>
+        <item>Kepala Sub. Bagian Keuangan</item>
+        <item>Bendahara</item>
+        <item>Pengadministrasi Keuangan</item>
+        <item>Penyusun Laporan Keuangan</item>
+        <item>Pengelola Perjalanan Dinas</item>
+        <item>Verfikator</item>
+        <item>Kabid. Pembangunan Ekonomi dan Pendapatan Desa</item>
+        <item>Kasi. Pemberdayaan Ekonomi Pedesaan</item>
+        <item>Analis Pengembangan Ekonomi Pedesaan</item>
+        <item>Pengelola Keuangan dan Pendapatan Desa</item>
+        <item>Kasi. Pendapatan dan Kekayaan Desa</item>
+        <item>Pengelola Keuangan dan Pendapatan Desa</item>
+        <item>Pengelola Kekayaan Desa dan Administrasi Desa</item>
+        <item>Kepala Bidang Pemberdayaan Masyarakat Desa</item>
+        <item>Kepala Seksi Kelembagaan Masyarakat</item>
+        <item>Penyusun Bahan Materi Bimbingan</item>
+        <item>Pengelola Data Pemberdayaan Masyarakat dan Kelembagaan</item>
+        <item>Pengadministrasi Umum</item>
+        <item>Kepala Seksi Keswadayaan</item>
+        <item>Pengelola Monitoring dan Evaluasi Penyelenggraan Pemerintahan Desa</item>
+        <item>Kepala Bidang Pemerintahan Desa</item>
+        <item>Kepala Seksi Aparatur Pemerintahan Desa</item>
+        <item>Pengadministrasi Umum</item>
+        <item>Kepala Seksi Penataan Desa</item>
+        <item>Kabid. Sarana dan Prasarana dan Kewilayahan</item>
+        <item>Kasi. Sarana dan Prasarana Desa</item>
+        <item>Pengelola Kekayaan Desa dan Administrasi Desa</item>
+        <item>Pengadministrasi Sarana dan Prasarana</item>
+        <item>Kasi. Pemberdayaan Kewilayahan Desa</item>
+        <item>Penyusun Bahan Bimbingan Teknis</item>
+        <item>Analis Desa/Kelurahan</item>
+    </array>
+    <array name="golongan">
+        <item>II/A</item>
+        <item>II/B</item>
+        <item>II/C</item>
+        <item>II/D</item>
+        <item>III/A</item>
+        <item>III/B</item>
+        <item>III/C</item>
+        <item>III/D</item>
+        <item>IV/A</item>
+        <item>IV/B</item>
+        <item>IV/C</item>
+        <item>IV/D</item>
+        <item>IV/E</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_user">Hello User</string>
+    <string name="nama_user">Nama User</string>
+    <string name="NIP">NIP.</string>
+    <string name="tanggal">20 Desember 2020</string>
+    <string name="app_name">Absen DPMD Kab Bogor</string>
+    <string name="appbar_scrolling_view_behaviors"></string>
+</resources>
